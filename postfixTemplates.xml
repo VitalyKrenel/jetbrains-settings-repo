@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="props@userDefined" key=".dest" provider="builtin.js" language-level="ES6" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="const {&#10;&#10;} = $EXPR$;" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
