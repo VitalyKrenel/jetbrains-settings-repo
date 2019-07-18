@@ -3,9 +3,19 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
