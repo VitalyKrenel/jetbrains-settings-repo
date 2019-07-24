@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="state-machine" type="JavaScript" />
+      <mapping ext="hbs" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
     </extensionMap>
   </component>
