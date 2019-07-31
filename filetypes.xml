@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="state-machine" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
+      <mapping ext="form" type="PLAIN_TEXT" />
       <removed_mapping ext="hbs" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
