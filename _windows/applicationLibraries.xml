@@ -393,13 +393,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/spec" />
@@ -440,14 +438,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/test" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/test" />
@@ -556,13 +552,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/spec" />
@@ -1140,13 +1134,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/test" />
@@ -1515,7 +1507,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -1523,7 +1514,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -2855,7 +2845,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/spec" />
@@ -2863,7 +2852,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/spec" />
@@ -2907,7 +2895,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -2915,7 +2902,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -3188,7 +3174,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -3198,7 +3183,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -4047,7 +4031,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/lib" />
@@ -4057,7 +4040,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/lib" />
@@ -4118,13 +4100,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.0.14" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.0.14" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/test" />
@@ -4722,14 +4702,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/lib" />
