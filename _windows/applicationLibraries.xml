@@ -48,7 +48,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="aasm (v3.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="aasm (v3.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/aasm-3.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/aasm-3.1.1/spec" />
@@ -64,7 +67,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/aasm-3.1.1/gemfiles" />
       </excluded>
     </library>
-    <library name="actionmailer (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="actionmailer (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.11.1/lib" />
       </CLASSES>
@@ -72,7 +78,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="actionmailer (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="actionmailer (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.9/lib" />
       </CLASSES>
@@ -80,7 +89,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.9/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="actionpack (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-4.2.11.1/lib" />
       </CLASSES>
@@ -88,7 +100,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="actionpack (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-4.2.9/lib" />
       </CLASSES>
@@ -96,7 +111,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-4.2.9/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack-action_caching (v1.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="actionpack-action_caching (v1.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-action_caching-1.2.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-action_caching-1.2.0/test" />
@@ -112,7 +130,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionpack-action_caching-1.2.0/gemfiles" />
       </excluded>
     </library>
-    <library name="actionview (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="actionview (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionview-4.2.11.1/lib" />
       </CLASSES>
@@ -120,7 +141,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionview-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="actionview (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="actionview (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionview-4.2.9/lib" />
       </CLASSES>
@@ -128,7 +152,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/actionview-4.2.9/lib" />
       </SOURCES>
     </library>
-    <library name="activejob (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="activejob (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activejob-4.2.11.1/lib" />
       </CLASSES>
@@ -136,7 +163,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activejob-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="activejob (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="activejob (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activejob-4.2.9/lib" />
       </CLASSES>
@@ -144,7 +174,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activejob-4.2.9/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="activemodel (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activemodel-4.2.11.1/lib" />
       </CLASSES>
@@ -152,7 +185,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activemodel-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="activemodel (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activemodel-4.2.9/lib" />
       </CLASSES>
@@ -160,7 +196,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activemodel-4.2.9/lib" />
       </SOURCES>
     </library>
-    <library name="activerecord (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="activerecord (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/examples" />
@@ -173,7 +212,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/examples" />
       </excluded>
     </library>
-    <library name="activerecord (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="activerecord (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activerecord-4.2.9/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activerecord-4.2.9/examples" />
@@ -186,7 +228,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activerecord-4.2.9/examples" />
       </excluded>
     </library>
-    <library name="activesupport (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="activesupport (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activesupport-4.2.11.1/lib" />
       </CLASSES>
@@ -194,7 +239,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activesupport-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="activesupport (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activesupport-4.2.9/lib" />
       </CLASSES>
@@ -202,7 +250,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/activesupport-4.2.9/lib" />
       </SOURCES>
     </library>
-    <library name="addressable (v2.5.2, ruby-2.3.1-p112) [gem]">
+    <library name="addressable (v2.5.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/addressable-2.5.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/addressable-2.5.2/data" />
@@ -221,7 +272,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/addressable-2.5.2/tasks" />
       </excluded>
     </library>
-    <library name="addressable (v2.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="addressable (v2.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/addressable-2.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/addressable-2.6.0/data" />
@@ -240,7 +294,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/addressable-2.6.0/tasks" />
       </excluded>
     </library>
-    <library name="algoliasearch (v1.12.5, ruby-2.3.1-p112) [gem]">
+    <library name="algoliasearch (v1.12.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/algoliasearch-1.12.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/algoliasearch-1.12.5/spec" />
@@ -256,7 +313,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/algoliasearch-1.12.5/resources" />
       </excluded>
     </library>
-    <library name="algoliasearch-rails (v1.18.0, ruby-2.3.1-p112) [gem]">
+    <library name="algoliasearch-rails (v1.18.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/algoliasearch-rails-1.18.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/algoliasearch-rails-1.18.0/spec" />
@@ -271,7 +331,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/algoliasearch-rails-1.18.0/spec" />
       </excluded>
     </library>
-    <library name="arel (v6.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="arel (v6.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
       </CLASSES>
@@ -279,7 +342,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="autoprefixer-rails (v7.1.4, ruby-2.3.1-p112) [gem]">
+    <library name="autoprefixer-rails (v7.1.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-7.1.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-7.1.4/spec" />
@@ -294,7 +360,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-7.1.4/spec" />
       </excluded>
     </library>
-    <library name="autoprefixer-rails (v9.6.1, ruby-2.3.1-p112) [gem]">
+    <library name="autoprefixer-rails (v9.6.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-9.6.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-9.6.1/spec" />
@@ -312,7 +381,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-9.6.1/.github" />
       </excluded>
     </library>
-    <library name="aws_cf_signer (v0.1.3, ruby-2.3.1-p112) [gem]">
+    <library name="aws_cf_signer (v0.1.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/aws_cf_signer-0.1.3/lib" />
       </CLASSES>
@@ -320,15 +392,16 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/aws_cf_signer-0.1.3/lib" />
       </SOURCES>
     </library>
-    <library name="bcrypt (v3.1.11, ruby-2.3.1-p112) [gem]">
+    <library name="bcrypt (v3.1.11, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/spec" />
@@ -338,7 +411,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/spec" />
       </excluded>
     </library>
-    <library name="bcrypt (v3.1.13, ruby-2.3.1-p112) [gem]">
+    <library name="bcrypt (v3.1.13, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.13/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.13/lib" />
@@ -354,20 +430,24 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.13/spec" />
       </excluded>
     </library>
-    <library name="bigdecimal (v1.2.8, ruby-2.3.1-p112) [gem]">
+    <library name="bigdecimal (v1.2.8, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="binding_of_caller (v0.7.2, ruby-2.3.1-p112) [gem]">
+    <library name="binding_of_caller (v0.7.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/test" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/test" />
@@ -379,7 +459,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/examples" />
       </excluded>
     </library>
-    <library name="binding_of_caller (v0.8.0, ruby-2.3.1-p112) [gem]">
+    <library name="binding_of_caller (v0.8.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.8.0/lib" />
@@ -398,7 +481,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.8.0/examples" />
       </excluded>
     </library>
-    <library name="bootstrap-sass (v3.3.7, ruby-2.3.1-p112) [gem]">
+    <library name="bootstrap-sass (v3.3.7, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/test" />
@@ -420,7 +506,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/templates" />
       </excluded>
     </library>
-    <library name="bootstrap-tagsinput-rails (v0.4.2.1, ruby-2.3.1-p112) [gem]">
+    <library name="bootstrap-tagsinput-rails (v0.4.2.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-tagsinput-rails-0.4.2.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-tagsinput-rails-0.4.2.1/vendor" />
@@ -430,7 +519,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-tagsinput-rails-0.4.2.1/vendor" />
       </SOURCES>
     </library>
-    <library name="bootstrap3-datetimepicker-rails (v4.14.30, ruby-2.3.1-p112) [gem]">
+    <library name="bootstrap3-datetimepicker-rails (v4.14.30, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap3-datetimepicker-rails-4.14.30/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap3-datetimepicker-rails-4.14.30/vendor" />
@@ -440,7 +532,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap3-datetimepicker-rails-4.14.30/vendor" />
       </SOURCES>
     </library>
-    <library name="browser (v0.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="browser (v0.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/browser-0.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/browser-0.6.0/test" />
@@ -456,15 +551,16 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/browser-0.6.0/gemfiles" />
       </excluded>
     </library>
-    <library name="bson (v4.2.2, ruby-2.3.1-p112) [gem]">
+    <library name="bson (v4.2.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/spec" />
@@ -474,7 +570,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.2.2/spec" />
       </excluded>
     </library>
-    <library name="bson (v4.5.0, ruby-2.3.1-p112) [gem]">
+    <library name="bson (v4.5.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.5.0/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.5.0/lib" />
@@ -490,7 +589,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bson-4.5.0/spec" />
       </excluded>
     </library>
-    <library name="builder (v3.2.3, ruby-2.3.1-p112) [gem]">
+    <library name="builder (v3.2.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/builder-3.2.3/doc" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
@@ -509,7 +611,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/builder-3.2.3/rakelib" />
       </excluded>
     </library>
-    <library name="bullet (v4.14.5, ruby-2.3.1-p112) [gem]">
+    <library name="bullet (v4.14.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bullet-4.14.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bullet-4.14.5/perf" />
@@ -531,7 +636,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bullet-4.14.5/tasks" />
       </excluded>
     </library>
-    <library name="bundler (v1.17.3, ruby-2.3.1-p112) [gem]">
+    <library name="bundler (v1.17.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bundler-1.17.3/exe" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bundler-1.17.3/lib" />
@@ -547,7 +655,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bundler-1.17.3/man" />
       </excluded>
     </library>
-    <library name="carrierwave (v0.9.0, ruby-2.3.1-p112) [gem]">
+    <library name="carrierwave (v0.9.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/carrierwave-0.9.0/lib" />
       </CLASSES>
@@ -555,7 +666,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/carrierwave-0.9.0/lib" />
       </SOURCES>
     </library>
-    <library name="carrierwave-mongoid (v0.8.1, ruby-2.3.1-p112) [gem]">
+    <library name="carrierwave-mongoid (v0.8.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/carrierwave-mongoid-0.8.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/carrierwave-mongoid-0.8.1/log" />
@@ -574,7 +688,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/carrierwave-mongoid-0.8.1/gemfiles" />
       </excluded>
     </library>
-    <library name="celluloid (v0.16.0, ruby-2.3.1-p112) [gem]">
+    <library name="celluloid (v0.16.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/celluloid-0.16.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/celluloid-0.16.0/spec" />
@@ -587,7 +704,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/celluloid-0.16.0/spec" />
       </excluded>
     </library>
-    <library name="CFPropertyList (v2.3.5, ruby-2.3.1-p112) [gem]">
+    <library name="CFPropertyList (v2.3.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.5/lib" />
       </CLASSES>
@@ -595,7 +715,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.5/lib" />
       </SOURCES>
     </library>
-    <library name="CFPropertyList (v2.3.6, ruby-2.3.1-p112) [gem]">
+    <library name="CFPropertyList (v2.3.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.6/lib" />
       </CLASSES>
@@ -603,7 +726,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.6/lib" />
       </SOURCES>
     </library>
-    <library name="chunky_png (v1.3.11, ruby-2.3.1-p112) [gem]">
+    <library name="chunky_png (v1.3.11, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/chunky_png-1.3.11/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/chunky_png-1.3.11/spec" />
@@ -622,7 +748,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/chunky_png-1.3.11/benchmarks" />
       </excluded>
     </library>
-    <library name="chunky_png (v1.3.8, ruby-2.3.1-p112) [gem]">
+    <library name="chunky_png (v1.3.8, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/chunky_png-1.3.8/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/chunky_png-1.3.8/spec" />
@@ -641,7 +770,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/chunky_png-1.3.8/benchmarks" />
       </excluded>
     </library>
-    <library name="cloudinary (v1.0.85, ruby-2.3.1-p112) [gem]">
+    <library name="cloudinary (v1.0.85, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cloudinary-1.0.85/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cloudinary-1.0.85/spec" />
@@ -656,7 +788,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cloudinary-1.0.85/spec" />
       </excluded>
     </library>
-    <library name="coderay (v1.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="coderay (v1.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coderay-1.1.2/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coderay-1.1.2/lib" />
@@ -669,7 +804,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coderay-1.1.2/bin" />
       </excluded>
     </library>
-    <library name="coffee-rails (v4.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="coffee-rails (v4.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-rails-4.0.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-rails-4.0.1/test" />
@@ -685,7 +823,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-rails-4.0.1/gemfiles" />
       </excluded>
     </library>
-    <library name="coffee-script (v2.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="coffee-script (v2.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-script-2.4.1/lib" />
       </CLASSES>
@@ -693,7 +834,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-script-2.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="coffee-script-source (v1.12.2, ruby-2.3.1-p112) [gem]">
+    <library name="coffee-script-source (v1.12.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-script-source-1.12.2/lib" />
       </CLASSES>
@@ -701,7 +845,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="compass (v1.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="compass (v1.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-1.0.3/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib" />
@@ -719,7 +866,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-1.0.3/test" />
       </excluded>
     </library>
-    <library name="compass-core (v1.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="compass-core (v1.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/data" />
@@ -738,7 +888,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets" />
       </excluded>
     </library>
-    <library name="compass-import-once (v1.0.5, ruby-2.3.1-p112) [gem]">
+    <library name="compass-import-once (v1.0.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/test" />
@@ -751,7 +904,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/test" />
       </excluded>
     </library>
-    <library name="compass-rails (v2.0.5, ruby-2.3.1-p112) [gem]">
+    <library name="compass-rails (v2.0.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-rails-2.0.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-rails-2.0.5/test" />
@@ -767,7 +923,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-rails-2.0.5/gemfiles" />
       </excluded>
     </library>
-    <library name="concurrent-ruby (v1.1.5, ruby-2.3.1-p112) [gem]">
+    <library name="concurrent-ruby (v1.1.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/lib" />
@@ -780,7 +939,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
-    <library name="connection_pool (v2.2.2, ruby-2.3.1-p112) [gem]">
+    <library name="connection_pool (v2.2.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.2/test" />
@@ -793,7 +955,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.2/test" />
       </excluded>
     </library>
-    <library name="cookies_eu (v1.7.1, ruby-2.3.1-p112) [gem]">
+    <library name="cookies_eu (v1.7.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cookies_eu-1.7.1/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cookies_eu-1.7.1/lib" />
@@ -808,7 +973,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cookies_eu-1.7.1/config" />
       </excluded>
     </library>
-    <library name="cookies_eu (v1.7.5, ruby-2.3.1-p112) [gem]">
+    <library name="cookies_eu (v1.7.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cookies_eu-1.7.5/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cookies_eu-1.7.5/lib" />
@@ -823,7 +991,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cookies_eu-1.7.5/config" />
       </excluded>
     </library>
-    <library name="coveralls (v0.8.21, ruby-2.3.1-p112) [gem]">
+    <library name="coveralls (v0.8.21, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coveralls-0.8.21/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coveralls-0.8.21/lib" />
@@ -839,7 +1010,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coveralls-0.8.21/spec" />
       </excluded>
     </library>
-    <library name="coveralls (v0.8.23, ruby-2.3.1-p112) [gem]">
+    <library name="coveralls (v0.8.23, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coveralls-0.8.23/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coveralls-0.8.23/lib" />
@@ -855,7 +1029,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/coveralls-0.8.23/spec" />
       </excluded>
     </library>
-    <library name="crack (v0.4.3, ruby-2.3.1-p112) [gem]">
+    <library name="crack (v0.4.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/crack-0.4.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/crack-0.4.3/test" />
@@ -871,7 +1048,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/crack-0.4.3/script" />
       </excluded>
     </library>
-    <library name="crass (v1.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="crass (v1.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/crass-1.0.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/crass-1.0.4/test" />
@@ -884,7 +1064,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/crass-1.0.4/test" />
       </excluded>
     </library>
-    <library name="daemons (v1.2.4, ruby-2.3.1-p112) [gem]">
+    <library name="daemons (v1.2.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/daemons-1.2.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/daemons-1.2.4/examples" />
@@ -897,7 +1080,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/daemons-1.2.4/examples" />
       </excluded>
     </library>
-    <library name="daemons (v1.3.1, ruby-2.3.1-p112) [gem]">
+    <library name="daemons (v1.3.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/daemons-1.3.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/daemons-1.3.1/examples" />
@@ -910,7 +1096,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/daemons-1.3.1/examples" />
       </excluded>
     </library>
-    <library name="dalli (v2.6.4, ruby-2.3.1-p112) [gem]">
+    <library name="dalli (v2.6.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dalli-2.6.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dalli-2.6.4/test" />
@@ -923,7 +1112,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dalli-2.6.4/test" />
       </excluded>
     </library>
-    <library name="database_cleaner (v1.3.0, ruby-2.3.1-p112) [gem]">
+    <library name="database_cleaner (v1.3.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/database_cleaner-1.3.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/database_cleaner-1.3.0/spec" />
@@ -941,15 +1133,16 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/database_cleaner-1.3.0/examples" />
       </excluded>
     </library>
-    <library name="debug_inspector (v0.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="debug_inspector (v0.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/test" />
@@ -959,7 +1152,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.3/test" />
       </excluded>
     </library>
-    <library name="devise (v3.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="devise (v3.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-3.4.1/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-3.4.1/lib" />
@@ -983,7 +1179,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/devise-3.4.1/gemfiles" />
       </excluded>
     </library>
-    <library name="did_you_mean (v1.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="did_you_mean (v1.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/doc" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
@@ -1005,7 +1204,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </excluded>
     </library>
-    <library name="diff-lcs (v1.3, ruby-2.3.1-p112) [gem]">
+    <library name="diff-lcs (v1.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
@@ -1027,7 +1229,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
       </excluded>
     </library>
-    <library name="docile (v1.1.5, ruby-2.3.1-p112) [gem]">
+    <library name="docile (v1.1.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/docile-1.1.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/docile-1.1.5/spec" />
@@ -1040,7 +1245,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/docile-1.1.5/spec" />
       </excluded>
     </library>
-    <library name="docile (v1.3.2, ruby-2.3.1-p112) [gem]">
+    <library name="docile (v1.3.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/docile-1.3.2/lib" />
       </CLASSES>
@@ -1048,7 +1256,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/docile-1.3.2/lib" />
       </SOURCES>
     </library>
-    <library name="dry-inflector (v0.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="dry-inflector (v0.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dry-inflector-0.1.2/lib" />
       </CLASSES>
@@ -1056,7 +1267,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dry-inflector-0.1.2/lib" />
       </SOURCES>
     </library>
-    <library name="em-websocket (v0.5.1, ruby-2.3.1-p112) [gem]">
+    <library name="em-websocket (v0.5.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/em-websocket-0.5.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/em-websocket-0.5.1/spec" />
@@ -1072,7 +1286,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/em-websocket-0.5.1/examples" />
       </excluded>
     </library>
-    <library name="erubis (v2.7.0, ruby-2.3.1-p112) [gem]">
+    <library name="erubis (v2.7.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc" />
@@ -1103,7 +1320,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
-    <library name="eventmachine (v1.2.5, ruby-2.3.1-p112) [gem]">
+    <library name="eventmachine (v1.2.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.5-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.5-x64-mingw32/lib" />
@@ -1131,7 +1351,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.5-x64-mingw32/examples" />
       </excluded>
     </library>
-    <library name="eventmachine (v1.2.7, ruby-2.3.1-p112) [gem]">
+    <library name="eventmachine (v1.2.7, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.7-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.7-x64-mingw32/lib" />
@@ -1159,7 +1382,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.7-x64-mingw32/examples" />
       </excluded>
     </library>
-    <library name="excon (v0.59.0, ruby-2.3.1-p112) [gem]">
+    <library name="excon (v0.59.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/excon-0.59.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/excon-0.59.0/data" />
@@ -1181,7 +1407,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/excon-0.59.0/benchmarks" />
       </excluded>
     </library>
-    <library name="excon (v0.64.0, ruby-2.3.1-p112) [gem]">
+    <library name="excon (v0.64.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/excon-0.64.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/excon-0.64.0/data" />
@@ -1206,7 +1435,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/excon-0.64.0/benchmarks" />
       </excluded>
     </library>
-    <library name="execjs (v2.7.0, ruby-2.3.1-p112) [gem]">
+    <library name="execjs (v2.7.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/execjs-2.7.0/lib" />
       </CLASSES>
@@ -1214,7 +1446,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.12.2, ruby-2.3.1-p112) [gem]">
+    <library name="faraday (v0.12.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday-0.12.2/lib" />
       </CLASSES>
@@ -1222,7 +1457,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday-0.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.15.4, ruby-2.3.1-p112) [gem]">
+    <library name="faraday (v0.15.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday-0.15.4/lib" />
       </CLASSES>
@@ -1230,7 +1468,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
-    <library name="faraday_middleware (v0.12.2, ruby-2.3.1-p112) [gem]">
+    <library name="faraday_middleware (v0.12.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday_middleware-0.12.2/lib" />
       </CLASSES>
@@ -1238,7 +1479,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday_middleware-0.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="faraday_middleware (v0.13.1, ruby-2.3.1-p112) [gem]">
+    <library name="faraday_middleware (v0.13.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday_middleware-0.13.1/lib" />
       </CLASSES>
@@ -1246,7 +1490,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faraday_middleware-0.13.1/lib" />
       </SOURCES>
     </library>
-    <library name="ffi (v1.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="ffi (v1.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.11.1-x64-mingw32/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.11.1-x64-mingw32/samples" />
@@ -1259,9 +1506,11 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.11.1-x64-mingw32/samples" />
       </excluded>
     </library>
-    <library name="ffi (v1.9.18, ruby-2.3.1-p112) [gem]">
+    <library name="ffi (v1.9.18, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -1269,7 +1518,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -1283,7 +1531,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x64-mingw32/libtest" />
       </excluded>
     </library>
-    <library name="fission (v0.5.0, ruby-2.3.1-p112) [gem]">
+    <library name="fission (v0.5.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fission-0.5.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fission-0.5.0/lib" />
@@ -1299,7 +1550,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fission-0.5.0/spec" />
       </excluded>
     </library>
-    <library name="fog (v1.41.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog (v1.41.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-1.41.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-1.41.0/lib" />
@@ -1324,7 +1578,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-1.41.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-aliyun (v0.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-aliyun (v0.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.2.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.2.0/lib" />
@@ -1337,7 +1594,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.2.0/bin" />
       </excluded>
     </library>
-    <library name="fog-aliyun (v0.3.4, ruby-2.3.1-p112) [gem]">
+    <library name="fog-aliyun (v0.3.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.3.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.3.4/lib" />
@@ -1350,7 +1610,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.3.4/bin" />
       </excluded>
     </library>
-    <library name="fog-atmos (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-atmos (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/tests" />
@@ -1366,7 +1629,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-aws (v1.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-aws (v1.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aws-1.4.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aws-1.4.1/tests" />
@@ -1382,7 +1648,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aws-1.4.1/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-aws (v2.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-aws (v2.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aws-2.0.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aws-2.0.1/tests" />
@@ -1398,7 +1667,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-aws-2.0.1/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-brightbox (v0.13.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-brightbox (v0.13.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.13.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.13.0/spec" />
@@ -1417,7 +1689,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.13.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-brightbox (v0.16.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-brightbox (v0.16.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.16.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.16.1/spec" />
@@ -1436,7 +1711,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.16.1/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-cloudatcost (v0.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="fog-cloudatcost (v0.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/spec" />
@@ -1452,7 +1730,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-core (v1.45.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-core (v1.45.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-core-1.45.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-core-1.45.0/spec" />
@@ -1465,7 +1746,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-core-1.45.0/spec" />
       </excluded>
     </library>
-    <library name="fog-digitalocean (v0.3.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-digitalocean (v0.3.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/tests" />
@@ -1481,7 +1765,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-digitalocean (v0.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-digitalocean (v0.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.4.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.4.0/tests" />
@@ -1497,7 +1784,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.4.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-dnsimple (v1.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-dnsimple (v1.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/lib" />
@@ -1513,7 +1803,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/tests" />
       </excluded>
     </library>
-    <library name="fog-dynect (v0.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="fog-dynect (v0.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/tests" />
@@ -1529,7 +1822,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-ecloud (v0.3.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-ecloud (v0.3.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/spec" />
@@ -1548,7 +1844,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-google (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-google (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/test" />
@@ -1570,7 +1869,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-internet-archive (v0.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-internet-archive (v0.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-internet-archive-0.0.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-internet-archive-0.0.1/tasks" />
@@ -1586,7 +1888,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-internet-archive-0.0.1/tests" />
       </excluded>
     </library>
-    <library name="fog-joyent (v0.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-joyent (v0.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-joyent-0.0.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-joyent-0.0.1/tests" />
@@ -1599,7 +1904,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-joyent-0.0.1/tests" />
       </excluded>
     </library>
-    <library name="fog-json (v1.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="fog-json (v1.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/test" />
@@ -1615,7 +1923,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-json (v1.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-json (v1.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-json-1.2.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-json-1.2.0/test" />
@@ -1628,7 +1939,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-json-1.2.0/test" />
       </excluded>
     </library>
-    <library name="fog-local (v0.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-local (v0.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-local-0.4.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-local-0.4.0/tests" />
@@ -1641,7 +1955,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-local-0.4.0/tests" />
       </excluded>
     </library>
-    <library name="fog-local (v0.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-local (v0.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-local-0.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-local-0.6.0/tests" />
@@ -1654,7 +1971,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-local-0.6.0/tests" />
       </excluded>
     </library>
-    <library name="fog-openstack (v0.1.21, ruby-2.3.1-p112) [gem]">
+    <library name="fog-openstack (v0.1.21, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.21/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.21/lib" />
@@ -1676,7 +1996,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.21/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-openstack (v0.3.10, ruby-2.3.1-p112) [gem]">
+    <library name="fog-openstack (v0.3.10, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-openstack-0.3.10/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-openstack-0.3.10/lib" />
@@ -1701,7 +2024,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-openstack-0.3.10/playbooks" />
       </excluded>
     </library>
-    <library name="fog-powerdns (v0.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-powerdns (v0.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/lib" />
@@ -1714,7 +2040,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/bin" />
       </excluded>
     </library>
-    <library name="fog-powerdns (v0.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-powerdns (v0.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.2.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.2.0/lib" />
@@ -1727,7 +2056,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.2.0/bin" />
       </excluded>
     </library>
-    <library name="fog-profitbricks (v4.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-profitbricks (v4.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-profitbricks-4.0.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-profitbricks-4.0.0/spec" />
@@ -1749,7 +2081,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-profitbricks-4.0.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-profitbricks (v4.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-profitbricks (v4.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-profitbricks-4.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-profitbricks-4.1.1/spec" />
@@ -1771,7 +2106,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-profitbricks-4.1.1/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-rackspace (v0.1.5, ruby-2.3.1-p112) [gem]">
+    <library name="fog-rackspace (v0.1.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.5/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.5/lib" />
@@ -1787,7 +2125,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.5/tests" />
       </excluded>
     </library>
-    <library name="fog-rackspace (v0.1.6, ruby-2.3.1-p112) [gem]">
+    <library name="fog-rackspace (v0.1.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.6/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.6/lib" />
@@ -1803,7 +2144,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.6/tests" />
       </excluded>
     </library>
-    <library name="fog-radosgw (v0.0.5, ruby-2.3.1-p112) [gem]">
+    <library name="fog-radosgw (v0.0.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/tests" />
@@ -1819,7 +2163,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-riakcs (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-riakcs (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/spec" />
@@ -1838,7 +2185,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-sakuracloud (v1.7.5, ruby-2.3.1-p112) [gem]">
+    <library name="fog-sakuracloud (v1.7.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/tests" />
@@ -1851,7 +2201,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/tests" />
       </excluded>
     </library>
-    <library name="fog-serverlove (v0.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="fog-serverlove (v0.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/spec" />
@@ -1870,7 +2223,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-softlayer (v1.1.4, ruby-2.3.1-p112) [gem]">
+    <library name="fog-softlayer (v1.1.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/docs" />
@@ -1895,7 +2251,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-storm_on_demand (v0.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-storm_on_demand (v0.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/spec" />
@@ -1911,7 +2270,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-terremark (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-terremark (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/spec" />
@@ -1927,7 +2289,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-vmfusion (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-vmfusion (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/spec" />
@@ -1943,7 +2308,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-voxel (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-voxel (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/spec" />
@@ -1962,7 +2330,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-vsphere (v1.12.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-vsphere (v1.12.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.12.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.12.0/tests" />
@@ -1978,7 +2349,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.12.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-vsphere (v3.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="fog-vsphere (v3.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vsphere-3.1.1/lib" />
       </CLASSES>
@@ -1986,7 +2360,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-vsphere-3.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="fog-xenserver (v0.3.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-xenserver (v0.3.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/spec" />
@@ -2002,7 +2379,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-xenserver (v1.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="fog-xenserver (v1.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xenserver-1.0.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xenserver-1.0.0/spec" />
@@ -2018,7 +2398,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xenserver-1.0.0/gemfiles" />
       </excluded>
     </library>
-    <library name="fog-xml (v0.1.3, ruby-2.3.1-p112) [gem]">
+    <library name="fog-xml (v0.1.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/spec" />
@@ -2034,7 +2417,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/gemfiles" />
       </excluded>
     </library>
-    <library name="font-awesome-rails (v4.7.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="font-awesome-rails (v4.7.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/font-awesome-rails-4.7.0.2/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/font-awesome-rails-4.7.0.2/lib" />
@@ -2049,7 +2435,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/font-awesome-rails-4.7.0.2/test" />
       </excluded>
     </library>
-    <library name="font-awesome-rails (v4.7.0.5, ruby-2.3.1-p112) [gem]">
+    <library name="font-awesome-rails (v4.7.0.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/font-awesome-rails-4.7.0.5/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/font-awesome-rails-4.7.0.5/lib" />
@@ -2064,7 +2453,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/font-awesome-rails-4.7.0.5/test" />
       </excluded>
     </library>
-    <library name="formatador (v0.2.5, ruby-2.3.1-p112) [gem]">
+    <library name="formatador (v0.2.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/tests" />
@@ -2077,7 +2469,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/tests" />
       </excluded>
     </library>
-    <library name="fusioncharts-rails (v0.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="fusioncharts-rails (v0.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fusioncharts-rails-0.0.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fusioncharts-rails-0.0.2/spec" />
@@ -2090,7 +2485,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/fusioncharts-rails-0.0.2/spec" />
       </excluded>
     </library>
-    <library name="gemoji (v3.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="gemoji (v3.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/gemoji-3.0.0/db" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/gemoji-3.0.0/bin" />
@@ -2109,7 +2507,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/gemoji-3.0.0/images" />
       </excluded>
     </library>
-    <library name="gemoji (v3.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="gemoji (v3.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/gemoji-3.0.1/db" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/gemoji-3.0.1/bin" />
@@ -2128,7 +2529,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/gemoji-3.0.1/images" />
       </excluded>
     </library>
-    <library name="geocoder (v1.2.14, ruby-2.3.1-p112) [gem]">
+    <library name="geocoder (v1.2.14, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/geocoder-1.2.14/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/geocoder-1.2.14/lib" />
@@ -2144,7 +2548,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/geocoder-1.2.14/examples" />
       </excluded>
     </library>
-    <library name="gibbon (v3.1.0@bc1fd4, ruby-2.3.1-p112) [gem]">
+    <library name="gibbon (v3.1.0@bc1fd4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/bundler/gems/gibbon-bc1fd46e5de9/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/bundler/gems/gibbon-bc1fd46e5de9/.git" />
@@ -2160,7 +2567,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/bundler/gems/gibbon-bc1fd46e5de9/spec" />
       </excluded>
     </library>
-    <library name="gibbon (v3.2.1@4f0d2d, ruby-2.3.1-p112) [gem]">
+    <library name="gibbon (v3.2.1@4f0d2d, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/bundler/gems/gibbon-4f0d2d2eaf9e/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/bundler/gems/gibbon-4f0d2d2eaf9e/.git" />
@@ -2176,7 +2586,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/bundler/gems/gibbon-4f0d2d2eaf9e/spec" />
       </excluded>
     </library>
-    <library name="globalid (v0.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="globalid (v0.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/globalid-0.4.0/lib" />
       </CLASSES>
@@ -2184,7 +2597,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/globalid-0.4.0/lib" />
       </SOURCES>
     </library>
-    <library name="globalid (v0.4.2, ruby-2.3.1-p112) [gem]">
+    <library name="globalid (v0.4.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/globalid-0.4.2/lib" />
       </CLASSES>
@@ -2192,7 +2608,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/globalid-0.4.2/lib" />
       </SOURCES>
     </library>
-    <library name="google-webfonts-rails (v0.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="google-webfonts-rails (v0.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/google-webfonts-rails-0.0.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/google-webfonts-rails-0.0.4/spec" />
@@ -2205,7 +2624,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/google-webfonts-rails-0.0.4/spec" />
       </excluded>
     </library>
-    <library name="googlecharts (v1.6.12, ruby-2.3.1-p112) [gem]">
+    <library name="googlecharts (v1.6.12, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/googlecharts-1.6.12/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/googlecharts-1.6.12/spec" />
@@ -2218,7 +2640,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/googlecharts-1.6.12/spec" />
       </excluded>
     </library>
-    <library name="groupdate (v3.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="groupdate (v3.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/groupdate-3.2.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/groupdate-3.2.0/test" />
@@ -2231,7 +2656,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/groupdate-3.2.0/test" />
       </excluded>
     </library>
-    <library name="groupdate (v4.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="groupdate (v4.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/groupdate-4.1.2/lib" />
       </CLASSES>
@@ -2239,7 +2667,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/groupdate-4.1.2/lib" />
       </SOURCES>
     </library>
-    <library name="guard (v2.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="guard (v2.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/guard-2.6.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/guard-2.6.0/lib" />
@@ -2258,7 +2689,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/guard-2.6.0/images" />
       </excluded>
     </library>
-    <library name="guard-livereload (v2.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="guard-livereload (v2.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/guard-livereload-2.1.2/js" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/guard-livereload-2.1.2/lib" />
@@ -2274,7 +2708,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/guard-livereload-2.1.2/spec" />
       </excluded>
     </library>
-    <library name="haml (v4.0.7, ruby-2.3.1-p112) [gem]">
+    <library name="haml (v4.0.7, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/haml-4.0.7/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/haml-4.0.7/lib" />
@@ -2290,7 +2727,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/haml-4.0.7/test" />
       </excluded>
     </library>
-    <library name="handlebars_assets (v0.23.2, ruby-2.3.1-p112) [gem]">
+    <library name="handlebars_assets (v0.23.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/handlebars_assets-0.23.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/handlebars_assets-0.23.2/test" />
@@ -2308,7 +2748,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/handlebars_assets-0.23.2/gemfiles" />
       </excluded>
     </library>
-    <library name="handlebars_assets (v0.23.4, ruby-2.3.1-p112) [gem]">
+    <library name="handlebars_assets (v0.23.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/handlebars_assets-0.23.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/handlebars_assets-0.23.4/test" />
@@ -2326,7 +2769,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/handlebars_assets-0.23.4/gemfiles" />
       </excluded>
     </library>
-    <library name="hashdiff (v0.3.6, ruby-2.3.1-p112) [gem]">
+    <library name="hashdiff (v0.3.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashdiff-0.3.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashdiff-0.3.6/spec" />
@@ -2339,7 +2785,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashdiff-0.3.6/spec" />
       </excluded>
     </library>
-    <library name="hashdiff (v0.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="hashdiff (v0.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/spec" />
@@ -2352,7 +2801,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/spec" />
       </excluded>
     </library>
-    <library name="hashie (v3.5.6, ruby-2.3.1-p112) [gem]">
+    <library name="hashie (v3.5.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashie-3.5.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashie-3.5.6/spec" />
@@ -2365,7 +2817,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashie-3.5.6/spec" />
       </excluded>
     </library>
-    <library name="hashie (v3.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="hashie (v3.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashie-3.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashie-3.6.0/spec" />
@@ -2378,7 +2833,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hashie-3.6.0/spec" />
       </excluded>
     </library>
-    <library name="hike (v1.2.3, ruby-2.3.1-p112) [gem]">
+    <library name="hike (v1.2.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hike-1.2.3/lib" />
       </CLASSES>
@@ -2386,9 +2844,11 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hike-1.2.3/lib" />
       </SOURCES>
     </library>
-    <library name="hitimes (v1.2.6, ruby-2.3.1-p112) [gem]">
+    <library name="hitimes (v1.2.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/spec" />
@@ -2396,7 +2856,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/spec" />
@@ -2410,7 +2869,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.2.6/examples" />
       </excluded>
     </library>
-    <library name="hitimes (v1.3.1, ruby-2.3.1-p112) [gem]">
+    <library name="hitimes (v1.3.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1-x64-mingw32/lib" />
@@ -2432,9 +2894,11 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1-x64-mingw32/examples" />
       </excluded>
     </library>
-    <library name="http_parser.rb (v0.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="http_parser.rb (v0.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -2442,7 +2906,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -2456,7 +2919,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
       </excluded>
     </library>
-    <library name="httparty (v0.13.1, ruby-2.3.1-p112) [gem]">
+    <library name="httparty (v0.13.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/httparty-0.13.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/httparty-0.13.1/lib" />
@@ -2483,7 +2949,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/httparty-0.13.1/examples" />
       </excluded>
     </library>
-    <library name="httpclient (v2.8.2.4, ruby-2.3.1-p112) [gem]">
+    <library name="httpclient (v2.8.2.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/httpclient-2.8.2.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/httpclient-2.8.2.4/lib" />
@@ -2502,7 +2971,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/httpclient-2.8.2.4/sample" />
       </excluded>
     </library>
-    <library name="i18n (v0.8.6, ruby-2.3.1-p112) [gem]">
+    <library name="i18n (v0.8.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-0.8.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-0.8.6/test" />
@@ -2518,7 +2990,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-0.8.6/gemfiles" />
       </excluded>
     </library>
-    <library name="i18n (v0.9.5, ruby-2.3.1-p112) [gem]">
+    <library name="i18n (v0.9.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/test" />
@@ -2534,7 +3009,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
       </excluded>
     </library>
-    <library name="icalendar (v2.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="icalendar (v2.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/icalendar-2.4.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/icalendar-2.4.1/spec" />
@@ -2547,7 +3025,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/icalendar-2.4.1/spec" />
       </excluded>
     </library>
-    <library name="icalendar (v2.5.3, ruby-2.3.1-p112) [gem]">
+    <library name="icalendar (v2.5.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/icalendar-2.5.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/icalendar-2.5.3/spec" />
@@ -2560,7 +3041,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/icalendar-2.5.3/spec" />
       </excluded>
     </library>
-    <library name="ice_cube (v0.16.3, ruby-2.3.1-p112) [gem]">
+    <library name="ice_cube (v0.16.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ice_cube-0.16.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ice_cube-0.16.3/spec" />
@@ -2576,7 +3060,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ice_cube-0.16.3/config" />
       </excluded>
     </library>
-    <library name="inflecto (v0.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="inflecto (v0.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/spec" />
@@ -2592,11 +3079,17 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/config" />
       </excluded>
     </library>
-    <library name="io-console (v0.4.5, ruby-2.3.1-p112) [gem]">
+    <library name="io-console (v0.4.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="ipaddress (v0.8.3, ruby-2.3.1-p112) [gem]">
+    <library name="ipaddress (v0.8.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/test" />
@@ -2609,7 +3102,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/test" />
       </excluded>
     </library>
-    <library name="jquery-migrate-rails (v1.2.1, ruby-2.3.1-p112) [gem]">
+    <library name="jquery-migrate-rails (v1.2.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-migrate-rails-1.2.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-migrate-rails-1.2.1/vendor" />
@@ -2619,7 +3115,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-migrate-rails-1.2.1/vendor" />
       </SOURCES>
     </library>
-    <library name="jquery-rails (v3.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="jquery-rails (v3.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-rails-3.0.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-rails-3.0.4/vendor" />
@@ -2629,7 +3128,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-rails-3.0.4/vendor" />
       </SOURCES>
     </library>
-    <library name="jquery-ui-rails (v5.0.5, ruby-2.3.1-p112) [gem]">
+    <library name="jquery-ui-rails (v5.0.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-ui-rails-5.0.5/lib" />
@@ -2639,7 +3141,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jquery-ui-rails-5.0.5/lib" />
       </SOURCES>
     </library>
-    <library name="js_cookie_rails (v2.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="js_cookie_rails (v2.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/js_cookie_rails-2.2.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/js_cookie_rails-2.2.0/lib" />
@@ -2654,7 +3159,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/js_cookie_rails-2.2.0/bin" />
       </excluded>
     </library>
-    <library name="json (v1.8.3, ruby-2.3.1-p112) [gem]">
+    <library name="json (v1.8.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/json/add" />
       </CLASSES>
@@ -2665,9 +3173,11 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/json/add" />
       </excluded>
     </library>
-    <library name="json (v1.8.6, ruby-2.3.1-p112) [gem]">
+    <library name="json (v1.8.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -2677,7 +3187,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -2695,7 +3204,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
       </excluded>
     </library>
-    <library name="jwt (v1.5.6, ruby-2.3.1-p112) [gem]">
+    <library name="jwt (v1.5.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/spec" />
@@ -2708,7 +3220,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/spec" />
       </excluded>
     </library>
-    <library name="jwt (v2.2.1, ruby-2.3.1-p112) [gem]">
+    <library name="jwt (v2.2.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jwt-2.2.1/lib" />
       </CLASSES>
@@ -2716,7 +3231,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/jwt-2.2.1/lib" />
       </SOURCES>
     </library>
-    <library name="kaminari (v0.17.0, ruby-2.3.1-p112) [gem]">
+    <library name="kaminari (v0.17.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/kaminari-0.17.0/app" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/kaminari-0.17.0/lib" />
@@ -2737,7 +3255,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/kaminari-0.17.0/gemfiles" />
       </excluded>
     </library>
-    <library name="listen (v2.10.1, ruby-2.3.1-p112) [gem]">
+    <library name="listen (v2.10.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/listen-2.10.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/listen-2.10.1/lib" />
@@ -2750,7 +3271,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/listen-2.10.1/bin" />
       </excluded>
     </library>
-    <library name="lograge (v0.2.2, ruby-2.3.1-p112) [gem]">
+    <library name="lograge (v0.2.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lograge-0.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lograge-0.2.2/spec" />
@@ -2763,7 +3287,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lograge-0.2.2/spec" />
       </excluded>
     </library>
-    <library name="loofah (v2.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="loofah (v2.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/test" />
@@ -2779,7 +3306,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/benchmark" />
       </excluded>
     </library>
-    <library name="loofah (v2.2.3, ruby-2.3.1-p112) [gem]">
+    <library name="loofah (v2.2.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.2.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.2.3/test" />
@@ -2795,7 +3325,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.2.3/benchmark" />
       </excluded>
     </library>
-    <library name="lumberjack (v1.0.12, ruby-2.3.1-p112) [gem]">
+    <library name="lumberjack (v1.0.12, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.12/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.12/spec" />
@@ -2808,7 +3341,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.12/spec" />
       </excluded>
     </library>
-    <library name="lumberjack (v1.0.13, ruby-2.3.1-p112) [gem]">
+    <library name="lumberjack (v1.0.13, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.13/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.13/spec" />
@@ -2821,7 +3357,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.13/spec" />
       </excluded>
     </library>
-    <library name="mail (v2.6.6, ruby-2.3.1-p112) [gem]">
+    <library name="mail (v2.6.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mail-2.6.6/lib" />
       </CLASSES>
@@ -2829,7 +3368,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mail-2.6.6/lib" />
       </SOURCES>
     </library>
-    <library name="mail (v2.7.1, ruby-2.3.1-p112) [gem]">
+    <library name="mail (v2.7.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mail-2.7.1/lib" />
       </CLASSES>
@@ -2837,7 +3379,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mail-2.7.1/lib" />
       </SOURCES>
     </library>
-    <library name="mailjet (v0.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="mailjet (v0.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mailjet-0.0.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mailjet-0.0.4/test" />
@@ -2850,7 +3395,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mailjet-0.0.4/test" />
       </excluded>
     </library>
-    <library name="mapbox-rails (v1.6.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="mapbox-rails (v1.6.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mapbox-rails-1.6.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mapbox-rails-1.6.1.1/vendor" />
@@ -2860,7 +3408,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mapbox-rails-1.6.1.1/vendor" />
       </SOURCES>
     </library>
-    <library name="memcachier (v0.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="memcachier (v0.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/memcachier-0.0.2/lib" />
       </CLASSES>
@@ -2868,7 +3419,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/memcachier-0.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.8.2, ruby-2.3.1-p112) [gem]">
+    <library name="method_source (v0.8.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/test" />
@@ -2881,7 +3435,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/test" />
       </excluded>
     </library>
-    <library name="method_source (v0.9.2, ruby-2.3.1-p112) [gem]">
+    <library name="method_source (v0.9.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/method_source-0.9.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/method_source-0.9.2/spec" />
@@ -2894,7 +3451,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/method_source-0.9.2/spec" />
       </excluded>
     </library>
-    <library name="mime-types (v3.1, ruby-2.3.1-p112) [gem]">
+    <library name="mime-types (v3.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-3.1/test" />
@@ -2907,7 +3467,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-3.1/test" />
       </excluded>
     </library>
-    <library name="mime-types (v3.2.2, ruby-2.3.1-p112) [gem]">
+    <library name="mime-types (v3.2.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-3.2.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-3.2.2/test" />
@@ -2920,7 +3483,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-3.2.2/test" />
       </excluded>
     </library>
-    <library name="mime-types-data (v3.2016.0521, ruby-2.3.1-p112) [gem]">
+    <library name="mime-types-data (v3.2016.0521, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
@@ -2933,7 +3499,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
       </excluded>
     </library>
-    <library name="mime-types-data (v3.2019.0331, ruby-2.3.1-p112) [gem]">
+    <library name="mime-types-data (v3.2019.0331, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2019.0331/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2019.0331/data" />
@@ -2949,7 +3518,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2019.0331/types" />
       </excluded>
     </library>
-    <library name="mini_mime (v1.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="mini_mime (v1.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_mime-1.0.2/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_mime-1.0.2/lib" />
@@ -2965,7 +3537,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_mime-1.0.2/bench" />
       </excluded>
     </library>
-    <library name="mini_portile2 (v2.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="mini_portile2 (v2.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_portile2-2.2.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_portile2-2.2.0/test" />
@@ -2981,7 +3556,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_portile2-2.2.0/concourse" />
       </excluded>
     </library>
-    <library name="mini_portile2 (v2.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="mini_portile2 (v2.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_portile2-2.4.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_portile2-2.4.0/test" />
@@ -2997,7 +3575,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mini_portile2-2.4.0/concourse" />
       </excluded>
     </library>
-    <library name="minitest (v5.10.3, ruby-2.3.1-p112) [gem]">
+    <library name="minitest (v5.10.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.10.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.10.3/test" />
@@ -3010,7 +3591,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.10.3/test" />
       </excluded>
     </library>
-    <library name="minitest (v5.11.3, ruby-2.3.1-p112) [gem]">
+    <library name="minitest (v5.11.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/test" />
@@ -3023,7 +3607,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
-    <library name="minitest (v5.8.3, ruby-2.3.1-p112) [gem]">
+    <library name="minitest (v5.8.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/test" />
@@ -3036,7 +3623,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/test" />
       </excluded>
     </library>
-    <library name="momentjs-rails (v2.17.1, ruby-2.3.1-p112) [gem]">
+    <library name="momentjs-rails (v2.17.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.17.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.17.1/test" />
@@ -3051,7 +3641,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.17.1/test" />
       </excluded>
     </library>
-    <library name="momentjs-rails (v2.20.1, ruby-2.3.1-p112) [gem]">
+    <library name="momentjs-rails (v2.20.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.20.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.20.1/test" />
@@ -3066,7 +3659,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.20.1/test" />
       </excluded>
     </library>
-    <library name="mongo (v2.4.3, ruby-2.3.1-p112) [gem]">
+    <library name="mongo (v2.4.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongo-2.4.3/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongo-2.4.3/lib" />
@@ -3082,7 +3678,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongo-2.4.3/spec" />
       </excluded>
     </library>
-    <library name="mongo (v2.9.0, ruby-2.3.1-p112) [gem]">
+    <library name="mongo (v2.9.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongo-2.9.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongo-2.9.0/lib" />
@@ -3098,7 +3697,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongo-2.9.0/spec" />
       </excluded>
     </library>
-    <library name="mongoid (v5.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid (v5.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-5.0.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-5.0.2/spec" />
@@ -3111,7 +3713,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-5.0.2/spec" />
       </excluded>
     </library>
-    <library name="mongoid-compatibility (v0.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid-compatibility (v0.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-compatibility-0.4.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-compatibility-0.4.1/spec" />
@@ -3124,7 +3729,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-compatibility-0.4.1/spec" />
       </excluded>
     </library>
-    <library name="mongoid-compatibility (v0.5.1, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid-compatibility (v0.5.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-compatibility-0.5.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-compatibility-0.5.1/spec" />
@@ -3137,7 +3745,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-compatibility-0.5.1/spec" />
       </excluded>
     </library>
-    <library name="mongoid-grid_fs (v2.3.0, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid-grid_fs (v2.3.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-grid_fs-2.3.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-grid_fs-2.3.0/test" />
@@ -3150,7 +3761,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-grid_fs-2.3.0/test" />
       </excluded>
     </library>
-    <library name="mongoid-grid_fs (v2.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid-grid_fs (v2.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-grid_fs-2.4.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-grid_fs-2.4.0/test" />
@@ -3163,7 +3777,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-grid_fs-2.4.0/test" />
       </excluded>
     </library>
-    <library name="mongoid-observers (v0.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid-observers (v0.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-observers-0.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-observers-0.1.1/spec" />
@@ -3176,7 +3793,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-observers-0.1.1/spec" />
       </excluded>
     </library>
-    <library name="mongoid-sadstory (v0.0.2, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid-sadstory (v0.0.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-sadstory-0.0.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-sadstory-0.0.2/spec" />
@@ -3189,7 +3809,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid-sadstory-0.0.2/spec" />
       </excluded>
     </library>
-    <library name="mongoid_paranoia (v0.2.1, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid_paranoia (v0.2.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_paranoia-0.2.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_paranoia-0.2.1/perf" />
@@ -3205,7 +3828,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_paranoia-0.2.1/spec" />
       </excluded>
     </library>
-    <library name="mongoid_rails_migrations (v1.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid_rails_migrations (v1.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_rails_migrations-1.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_rails_migrations-1.1.0/test" />
@@ -3218,7 +3844,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_rails_migrations-1.1.0/test" />
       </excluded>
     </library>
-    <library name="mongoid_rails_migrations (v1.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="mongoid_rails_migrations (v1.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_rails_migrations-1.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_rails_migrations-1.1.1/test" />
@@ -3231,7 +3860,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mongoid_rails_migrations-1.1.1/test" />
       </excluded>
     </library>
-    <library name="multi_json (v1.12.2, ruby-2.3.1-p112) [gem]">
+    <library name="multi_json (v1.12.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_json-1.12.2/lib" />
       </CLASSES>
@@ -3239,7 +3871,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_json-1.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="multi_json (v1.13.1, ruby-2.3.1-p112) [gem]">
+    <library name="multi_json (v1.13.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_json-1.13.1/lib" />
       </CLASSES>
@@ -3247,7 +3882,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
-    <library name="multi_xml (v0.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="multi_xml (v0.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
       </CLASSES>
@@ -3255,7 +3893,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="multipart-post (v2.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="multipart-post (v2.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/test" />
@@ -3268,7 +3909,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
-    <library name="multipart-post (v2.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="multipart-post (v2.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/spec" />
@@ -3281,7 +3925,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/spec" />
       </excluded>
     </library>
-    <library name="nested_form (v0.3.2, ruby-2.3.1-p112) [gem]">
+    <library name="nested_form (v0.3.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nested_form-0.3.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nested_form-0.3.2/spec" />
@@ -3296,7 +3943,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nested_form-0.3.2/spec" />
       </excluded>
     </library>
-    <library name="net-http-persistent (v3.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="net-http-persistent (v3.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-http-persistent-3.0.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-http-persistent-3.0.1/test" />
@@ -3309,7 +3959,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-http-persistent-3.0.1/test" />
       </excluded>
     </library>
-    <library name="net-telnet (v0.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="net-telnet (v0.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
@@ -3322,7 +3975,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
       </excluded>
     </library>
-    <library name="newrelic_rpm (v3.7.3.204, ruby-2.3.1-p112) [gem]">
+    <library name="newrelic_rpm (v3.7.3.204, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.7.3.204/ui" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.7.3.204/bin" />
@@ -3352,7 +4008,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.7.3.204/recipes" />
       </excluded>
     </library>
-    <library name="nokogiri (v1.10.3, ruby-2.3.1-p112) [gem]">
+    <library name="nokogiri (v1.10.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.10.3-x64-mingw32/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.10.3-x64-mingw32/ext" />
@@ -3371,9 +4030,11 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.10.3-x64-mingw32/patches" />
       </excluded>
     </library>
-    <library name="nokogiri (v1.8.0, ruby-2.3.1-p112) [gem]">
+    <library name="nokogiri (v1.8.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/lib" />
@@ -3383,7 +4044,6 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/lib" />
@@ -3401,7 +4061,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0-x64-mingw32/suppressions" />
       </excluded>
     </library>
-    <library name="non-stupid-digest-assets (v1.0.9, ruby-2.3.1-p112) [gem]">
+    <library name="non-stupid-digest-assets (v1.0.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/non-stupid-digest-assets-1.0.9/lib" />
       </CLASSES>
@@ -3409,7 +4072,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/non-stupid-digest-assets-1.0.9/lib" />
       </SOURCES>
     </library>
-    <library name="oauth2 (v1.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="oauth2 (v1.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oauth2-1.4.0/lib" />
       </CLASSES>
@@ -3417,7 +4083,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oauth2-1.4.0/lib" />
       </SOURCES>
     </library>
-    <library name="oauth2 (v1.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="oauth2 (v1.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oauth2-1.4.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oauth2-1.4.1/gemfiles" />
@@ -3430,15 +4099,16 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oauth2-1.4.1/gemfiles" />
       </excluded>
     </library>
-    <library name="oj (v2.0.14, ruby-2.3.1-p112) [gem]">
+    <library name="oj (v2.0.14, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.0.14" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.0.14" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/test" />
@@ -3447,7 +4117,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/oj-2.0.14/test" />
       </excluded>
     </library>
-    <library name="omniauth (v1.6.1, ruby-2.3.1-p112) [gem]">
+    <library name="omniauth (v1.6.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-1.6.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-1.6.1/.github" />
@@ -3460,7 +4133,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-1.6.1/.github" />
       </excluded>
     </library>
-    <library name="omniauth (v1.9.0, ruby-2.3.1-p112) [gem]">
+    <library name="omniauth (v1.9.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-1.9.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-1.9.0/.github" />
@@ -3473,7 +4149,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-1.9.0/.github" />
       </excluded>
     </library>
-    <library name="omniauth-oauth2 (v1.3.1, ruby-2.3.1-p112) [gem]">
+    <library name="omniauth-oauth2 (v1.3.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.3.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.3.1/spec" />
@@ -3486,7 +4165,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.3.1/spec" />
       </excluded>
     </library>
-    <library name="omniauth-stripe-connect (v2.9.0, ruby-2.3.1-p112) [gem]">
+    <library name="omniauth-stripe-connect (v2.9.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-stripe-connect-2.9.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-stripe-connect-2.9.0/spec" />
@@ -3499,7 +4181,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/omniauth-stripe-connect-2.9.0/spec" />
       </excluded>
     </library>
-    <library name="open4 (v1.3.4, ruby-2.3.1-p112) [gem]">
+    <library name="open4 (v1.3.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/open4-1.3.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/open4-1.3.4/test" />
@@ -3518,7 +4203,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/open4-1.3.4/white_box" />
       </excluded>
     </library>
-    <library name="optimist (v3.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="optimist (v3.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/optimist-3.0.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/optimist-3.0.0/test" />
@@ -3531,7 +4219,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/optimist-3.0.0/test" />
       </excluded>
     </library>
-    <library name="origin (v2.3.1, ruby-2.3.1-p112) [gem]">
+    <library name="origin (v2.3.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/origin-2.3.1/lib" />
       </CLASSES>
@@ -3539,7 +4230,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/origin-2.3.1/lib" />
       </SOURCES>
     </library>
-    <library name="orm_adapter (v0.5.0, ruby-2.3.1-p112) [gem]">
+    <library name="orm_adapter (v0.5.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/spec" />
@@ -3555,7 +4249,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/orm_adapter-0.5.0/gemfiles" />
       </excluded>
     </library>
-    <library name="pipedrive-ruby (v0.3.3, ruby-2.3.1-p112) [gem]">
+    <library name="pipedrive-ruby (v0.3.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pipedrive-ruby-0.3.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pipedrive-ruby-0.3.3/test" />
@@ -3568,7 +4265,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pipedrive-ruby-0.3.3/test" />
       </excluded>
     </library>
-    <library name="pipedrive.rb (v0.1.0, ruby-2.3.1-p112) [gem]">
+    <library name="pipedrive.rb (v0.1.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pipedrive.rb-0.1.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pipedrive.rb-0.1.0/spec" />
@@ -3581,7 +4281,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pipedrive.rb-0.1.0/spec" />
       </excluded>
     </library>
-    <library name="Platform (v0.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="Platform (v0.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/Platform-0.4.0/lib" />
       </CLASSES>
@@ -3589,7 +4292,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/Platform-0.4.0/lib" />
       </SOURCES>
     </library>
-    <library name="Platform (v0.4.2, ruby-2.3.1-p112) [gem]">
+    <library name="Platform (v0.4.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/Platform-0.4.2/lib" />
       </CLASSES>
@@ -3597,7 +4303,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/Platform-0.4.2/lib" />
       </SOURCES>
     </library>
-    <library name="POpen4 (v0.1.4, ruby-2.3.1-p112) [gem]">
+    <library name="POpen4 (v0.1.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/POpen4-0.1.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/POpen4-0.1.4/tests" />
@@ -3610,7 +4319,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/POpen4-0.1.4/tests" />
       </excluded>
     </library>
-    <library name="power_assert (v0.2.6, ruby-2.3.1-p112) [gem]">
+    <library name="power_assert (v0.2.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/test" />
@@ -3623,7 +4335,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/test" />
       </excluded>
     </library>
-    <library name="pry (v0.10.4, ruby-2.3.1-p112) [gem]">
+    <library name="pry (v0.10.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
@@ -3636,7 +4351,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
       </excluded>
     </library>
-    <library name="pry (v0.12.2, ruby-2.3.1-p112) [gem]">
+    <library name="pry (v0.12.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pry-0.12.2/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pry-0.12.2/lib" />
@@ -3649,7 +4367,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/pry-0.12.2/bin" />
       </excluded>
     </library>
-    <library name="psych (v2.0.17, ruby-2.3.1-p112) [gem]">
+    <library name="psych (v2.0.17, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/psych/json" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/psych/nodes" />
@@ -3669,7 +4390,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/psych/visitors" />
       </excluded>
     </library>
-    <library name="public_suffix (v3.0.0, ruby-2.3.1-p112) [gem]">
+    <library name="public_suffix (v3.0.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/public_suffix-3.0.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/public_suffix-3.0.0/lib" />
@@ -3688,7 +4412,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/public_suffix-3.0.0/test" />
       </excluded>
     </library>
-    <library name="public_suffix (v3.1.1, ruby-2.3.1-p112) [gem]">
+    <library name="public_suffix (v3.1.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/public_suffix-3.1.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/public_suffix-3.1.1/lib" />
@@ -3707,7 +4434,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/public_suffix-3.1.1/test" />
       </excluded>
     </library>
-    <library name="rack (v1.6.11, ruby-2.3.1-p112) [gem]">
+    <library name="rack (v1.6.11, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-1.6.11/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-1.6.11/lib" />
@@ -3729,7 +4459,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-1.6.11/example" />
       </excluded>
     </library>
-    <library name="rack (v1.6.8, ruby-2.3.1-p112) [gem]">
+    <library name="rack (v1.6.8, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-1.6.8/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-1.6.8/lib" />
@@ -3751,7 +4484,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-1.6.8/example" />
       </excluded>
     </library>
-    <library name="rack-test (v0.6.3, ruby-2.3.1-p112) [gem]">
+    <library name="rack-test (v0.6.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/spec" />
@@ -3764,7 +4500,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/spec" />
       </excluded>
     </library>
-    <library name="rails (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="rails (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-4.2.11.1/guides" />
       </CLASSES>
@@ -3775,7 +4514,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-4.2.11.1/guides" />
       </excluded>
     </library>
-    <library name="rails (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="rails (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-4.2.9/guides" />
       </CLASSES>
@@ -3786,7 +4528,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-4.2.9/guides" />
       </excluded>
     </library>
-    <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/test" />
@@ -3799,7 +4544,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/test" />
       </excluded>
     </library>
-    <library name="rails-dom-testing (v1.0.8, ruby-2.3.1-p112) [gem]">
+    <library name="rails-dom-testing (v1.0.8, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/test" />
@@ -3812,7 +4560,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/test" />
       </excluded>
     </library>
-    <library name="rails-dom-testing (v1.0.9, ruby-2.3.1-p112) [gem]">
+    <library name="rails-dom-testing (v1.0.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.9/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.9/test" />
@@ -3825,7 +4576,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.9/test" />
       </excluded>
     </library>
-    <library name="rails-html-sanitizer (v1.0.3, ruby-2.3.1-p112) [gem]">
+    <library name="rails-html-sanitizer (v1.0.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/test" />
@@ -3838,7 +4592,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/test" />
       </excluded>
     </library>
-    <library name="rails-html-sanitizer (v1.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="rails-html-sanitizer (v1.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.4/test" />
@@ -3851,7 +4608,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.4/test" />
       </excluded>
     </library>
-    <library name="rails-observers (v0.1.5, ruby-2.3.1-p112) [gem]">
+    <library name="rails-observers (v0.1.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-observers-0.1.5/lib" />
       </CLASSES>
@@ -3859,7 +4619,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rails-observers-0.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="railties (v4.2.11.1, ruby-2.3.1-p112) [gem]">
+    <library name="railties (v4.2.11.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/railties-4.2.11.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/railties-4.2.11.1/lib" />
@@ -3872,7 +4635,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/railties-4.2.11.1/bin" />
       </excluded>
     </library>
-    <library name="railties (v4.2.9, ruby-2.3.1-p112) [gem]">
+    <library name="railties (v4.2.9, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/railties-4.2.9/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/railties-4.2.9/lib" />
@@ -3885,7 +4651,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/railties-4.2.9/bin" />
       </excluded>
     </library>
-    <library name="rake (v10.4.2, ruby-2.3.1-p112) [gem]">
+    <library name="rake (v10.4.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.4.2/doc" />
@@ -3907,7 +4676,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </excluded>
     </library>
-    <library name="rake (v10.5.0, ruby-2.3.1-p112) [gem]">
+    <library name="rake (v10.5.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.5.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.5.0/doc" />
@@ -3929,16 +4701,17 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
-    <library name="rb-fsevent (v0.9.4, ruby-2.3.1-p112) [gem]">
+    <library name="rb-fsevent (v0.9.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/lib" />
@@ -3950,7 +4723,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.4/spec" />
       </excluded>
     </library>
-    <library name="rb-inotify (v0.10.0, ruby-2.3.1-p112) [gem]">
+    <library name="rb-inotify (v0.10.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-inotify-0.10.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-inotify-0.10.0/spec" />
@@ -3963,7 +4739,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-inotify-0.10.0/spec" />
       </excluded>
     </library>
-    <library name="rb-inotify (v0.9.10, ruby-2.3.1-p112) [gem]">
+    <library name="rb-inotify (v0.9.10, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-inotify-0.9.10/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-inotify-0.9.10/spec" />
@@ -3976,7 +4755,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rb-inotify-0.9.10/spec" />
       </excluded>
     </library>
-    <library name="rbvmomi (v1.11.3, ruby-2.3.1-p112) [gem]">
+    <library name="rbvmomi (v1.11.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rbvmomi-1.11.3/exe" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rbvmomi-1.11.3/lib" />
@@ -3995,7 +4777,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rbvmomi-1.11.3/examples" />
       </excluded>
     </library>
-    <library name="rbvmomi (v2.2.0, ruby-2.3.1-p112) [gem]">
+    <library name="rbvmomi (v2.2.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rbvmomi-2.2.0/exe" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rbvmomi-2.2.0/lib" />
@@ -4008,7 +4793,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rbvmomi-2.2.0/exe" />
       </excluded>
     </library>
-    <library name="rdoc (v4.2.1, ruby-2.3.1-p112) [gem]">
+    <library name="rdoc (v4.2.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/rdoc/rd" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/rdoc/ri" />
@@ -4043,7 +4831,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/2.3.0/rdoc/generator" />
       </excluded>
     </library>
-    <library name="responders (v2.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="responders (v2.4.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/responders-2.4.0/lib" />
       </CLASSES>
@@ -4051,7 +4842,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/responders-2.4.0/lib" />
       </SOURCES>
     </library>
-    <library name="responders (v2.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="responders (v2.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/responders-2.4.1/lib" />
       </CLASSES>
@@ -4059,7 +4853,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/responders-2.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="rest-client (v1.6.7, ruby-2.3.1-p112) [gem]">
+    <library name="rest-client (v1.6.7, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rest-client-1.6.7/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rest-client-1.6.7/lib" />
@@ -4075,7 +4872,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rest-client-1.6.7/spec" />
       </excluded>
     </library>
-    <library name="safe_yaml (v1.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="safe_yaml (v1.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/lib" />
@@ -4091,7 +4891,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/spec" />
       </excluded>
     </library>
-    <library name="safe_yaml (v1.0.5, ruby-2.3.1-p112) [gem]">
+    <library name="safe_yaml (v1.0.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.5/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.5/lib" />
@@ -4107,7 +4910,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.5/spec" />
       </excluded>
     </library>
-    <library name="sass (v3.4.25, ruby-2.3.1-p112) [gem]">
+    <library name="sass (v3.4.25, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.25/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib" />
@@ -4131,7 +4937,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.25/rails" />
       </excluded>
     </library>
-    <library name="sass-rails (v5.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="sass-rails (v5.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.1/lib" />
       </CLASSES>
@@ -4139,7 +4948,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="simplecov (v0.14.1, ruby-2.3.1-p112) [gem]">
+    <library name="simplecov (v0.14.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-0.14.1/doc" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-0.14.1/lib" />
@@ -4157,7 +4969,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-0.14.1/spec" />
       </excluded>
     </library>
-    <library name="simplecov (v0.16.1, ruby-2.3.1-p112) [gem]">
+    <library name="simplecov (v0.16.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-0.16.1/doc" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-0.16.1/lib" />
@@ -4170,7 +4985,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-0.16.1/doc" />
       </excluded>
     </library>
-    <library name="simplecov-html (v0.10.2, ruby-2.3.1-p112) [gem]">
+    <library name="simplecov-html (v0.10.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.2/test" />
@@ -4192,7 +5010,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.2/public" />
       </excluded>
     </library>
-    <library name="slop (v3.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="slop (v3.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slop-3.6.0/test" />
@@ -4205,7 +5026,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slop-3.6.0/test" />
       </excluded>
     </library>
-    <library name="sprockets (v2.12.4, ruby-2.3.1-p112) [gem]">
+    <library name="sprockets (v2.12.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-2.12.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-2.12.4/lib" />
@@ -4218,7 +5042,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-2.12.4/bin" />
       </excluded>
     </library>
-    <library name="sprockets (v2.12.5, ruby-2.3.1-p112) [gem]">
+    <library name="sprockets (v2.12.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-2.12.5/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-2.12.5/lib" />
@@ -4231,7 +5058,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-2.12.5/bin" />
       </excluded>
     </library>
-    <library name="sprockets-rails (v2.3.3, ruby-2.3.1-p112) [gem]">
+    <library name="sprockets-rails (v2.3.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib" />
       </CLASSES>
@@ -4239,7 +5069,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib" />
       </SOURCES>
     </library>
-    <library name="term-ansicolor (v1.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="term-ansicolor (v1.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/term-ansicolor-1.6.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/term-ansicolor-1.6.0/lib" />
@@ -4258,7 +5091,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/term-ansicolor-1.6.0/examples" />
       </excluded>
     </library>
-    <library name="term-ansicolor (v1.7.1, ruby-2.3.1-p112) [gem]">
+    <library name="term-ansicolor (v1.7.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/term-ansicolor-1.7.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/term-ansicolor-1.7.1/lib" />
@@ -4277,7 +5113,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/term-ansicolor-1.7.1/examples" />
       </excluded>
     </library>
-    <library name="test-unit (v3.1.5, ruby-2.3.1-p112) [gem]">
+    <library name="test-unit (v3.1.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/doc" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
@@ -4296,7 +5135,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </excluded>
     </library>
-    <library name="thor (v0.19.4, ruby-2.3.1-p112) [gem]">
+    <library name="thor (v0.19.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
@@ -4309,7 +5151,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
       </excluded>
     </library>
-    <library name="thor (v0.20.3, ruby-2.3.1-p112) [gem]">
+    <library name="thor (v0.20.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thor-0.20.3/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thor-0.20.3/lib" />
@@ -4322,7 +5167,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thor-0.20.3/bin" />
       </excluded>
     </library>
-    <library name="thread_safe (v0.3.6, ruby-2.3.1-p112) [gem]">
+    <library name="thread_safe (v0.3.6, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/ext" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/lib" />
@@ -4347,7 +5195,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
-    <library name="tilt (v1.4.1, ruby-2.3.1-p112) [gem]">
+    <library name="tilt (v1.4.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tilt-1.4.1/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tilt-1.4.1/lib" />
@@ -4363,7 +5214,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tilt-1.4.1/test" />
       </excluded>
     </library>
-    <library name="timers (v4.0.4, ruby-2.3.1-p112) [gem]">
+    <library name="timers (v4.0.4, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/timers-4.0.4/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/timers-4.0.4/spec" />
@@ -4376,7 +5230,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/timers-4.0.4/spec" />
       </excluded>
     </library>
-    <library name="tins (v1.15.0, ruby-2.3.1-p112) [gem]">
+    <library name="tins (v1.15.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tins-1.15.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tins-1.15.0/tests" />
@@ -4392,7 +5249,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tins-1.15.0/examples" />
       </excluded>
     </library>
-    <library name="tins (v1.21.0, ruby-2.3.1-p112) [gem]">
+    <library name="tins (v1.21.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tins-1.21.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tins-1.21.0/tests" />
@@ -4408,7 +5268,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tins-1.21.0/examples" />
       </excluded>
     </library>
-    <library name="trollop (v2.1.2, ruby-2.3.1-p112) [gem]">
+    <library name="trollop (v2.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/trollop-2.1.2/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/trollop-2.1.2/test" />
@@ -4421,7 +5284,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/trollop-2.1.2/test" />
       </excluded>
     </library>
-    <library name="tzinfo (v1.2.3, ruby-2.3.1-p112) [gem]">
+    <library name="tzinfo (v1.2.3, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/test" />
@@ -4434,7 +5300,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/test" />
       </excluded>
     </library>
-    <library name="tzinfo (v1.2.5, ruby-2.3.1-p112) [gem]">
+    <library name="tzinfo (v1.2.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/test" />
@@ -4447,7 +5316,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
-    <library name="uniform_notifier (v1.9.0, ruby-2.3.1-p112) [gem]">
+    <library name="uniform_notifier (v1.9.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/uniform_notifier-1.9.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/uniform_notifier-1.9.0/spec" />
@@ -4460,7 +5332,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/uniform_notifier-1.9.0/spec" />
       </excluded>
     </library>
-    <library name="warden (v1.2.7, ruby-2.3.1-p112) [gem]">
+    <library name="warden (v1.2.7, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/warden-1.2.7/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/warden-1.2.7/spec" />
@@ -4473,7 +5348,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/warden-1.2.7/spec" />
       </excluded>
     </library>
-    <library name="webmock (v3.0.1, ruby-2.3.1-p112) [gem]">
+    <library name="webmock (v3.0.1, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/webmock-3.0.1/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/webmock-3.0.1/spec" />
@@ -4492,7 +5370,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/webmock-3.0.1/minitest" />
       </excluded>
     </library>
-    <library name="webmock (v3.6.0, ruby-2.3.1-p112) [gem]">
+    <library name="webmock (v3.6.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/webmock-3.6.0/lib" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/webmock-3.6.0/spec" />
@@ -4511,7 +5392,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/webmock-3.6.0/minitest" />
       </excluded>
     </library>
-    <library name="xml-simple (v1.1.5, ruby-2.3.1-p112) [gem]">
+    <library name="xml-simple (v1.1.5, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/xml-simple-1.1.5/lib" />
       </CLASSES>
@@ -4519,7 +5403,10 @@
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/xml-simple-1.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="xmlrpc (v0.3.0, ruby-2.3.1-p112) [gem]">
+    <library name="xmlrpc (v0.3.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
       <CLASSES>
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://C:/DevSoftware/Ruby23-x64/lib/ruby/gems/2.3.0/gems/xmlrpc-0.3.0/lib" />
