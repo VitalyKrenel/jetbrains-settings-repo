@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="External Terminal" description="Open cmder terminal" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Developement Software\cmder\Cmder.exe" />
+      <option name="PARAMETERS" value="/START $ContentRoot$" />
+      <option name="WORKING_DIRECTORY" value="C:/Developement Software/cmder" />
+    </exec>
+  </tool>
+</toolSet>
