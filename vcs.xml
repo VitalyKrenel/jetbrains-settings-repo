@@ -3,24 +3,20 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="VitalyKrenel" />
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="VitalyKovtun" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="Vitaly_Krenel" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="VitalyKrenel" />
         </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
