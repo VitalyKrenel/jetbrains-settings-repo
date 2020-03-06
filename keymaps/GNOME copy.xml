@@ -1,16 +1,28 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorContextInfo" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="FocusEditor">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
@@ -21,6 +33,8 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
