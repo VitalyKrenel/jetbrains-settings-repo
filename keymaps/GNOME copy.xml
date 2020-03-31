@@ -23,6 +23,10 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -43,4 +47,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
   <action id="Switcher" />
+  <action id="Vcs.ToggleAmendCommitMode" />
 </keymap>
