@@ -7,6 +7,7 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -14,8 +15,16 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="FocusEditor">
     <keyboard-shortcut first-keystroke="escape" />
@@ -26,6 +35,9 @@
   <action id="Move">
     <keyboard-shortcut first-keystroke="f6" />
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -41,6 +53,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
